@@ -1,8 +1,11 @@
+# Sample Snack app
 
-<div>
-  <h1>👋 Projeto de tecnologias emergentes </h1>
-  <p>Esse projeto consiste em um formulário de cadastro para receber novidades e promoções de um site chamado "Encontre aqui" que vende roupas e sapatos de diferentes marcas famosas.</p>
-  <p>As tecnologias que vão ser utilizadas são javascript, react, react-native, snack-expo, além do firebase e github.</p>
-  <p>Essa aplicação tem como objetivo salvar os dados do cliente que quer receber informações sobre os produtos do site, guardando seu nome, email, marca favorita, tamanho pessoal de roupas e calçados. Dessa forma é possível receber diretamente no email as peças que o cliente deseja e ainda receber promoções das suas marcas favoritas, tudo com base nos dados coletados.</p>
+Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
-</div>
+When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+
+All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+
+If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+
+Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
